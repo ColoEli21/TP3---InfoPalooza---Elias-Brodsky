@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP3 - InfoPalooza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c5d0297472a3a9d905039e57a9905f1af0f466")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e101c077ee8624364c355ea6f5ec567258c1bf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP3 - InfoPalooza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP3 - InfoPalooza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
